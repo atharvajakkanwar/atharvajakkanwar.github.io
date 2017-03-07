@@ -13,7 +13,7 @@ body {
 
 .middle_bg {
 	padding: 250px 0;
-	margin: 0px;
+	margin: 50px 0 0 0;
 	background-size: cover;
 	background-image: 
   	url("/assets/bg.jpg.jpg");
