@@ -19,8 +19,6 @@ body {
 }
 
 .middle_bg {
-	position: absolute;
-	z-index: 0;
 	padding: 100px 0;
 	margin: 0px;
   	background-image: 
