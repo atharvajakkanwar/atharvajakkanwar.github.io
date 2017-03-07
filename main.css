@@ -14,7 +14,7 @@ body {
 .middle_bg {
 	padding: 250px 0;
 	margin: 50px 0 0 0;
-	background-size: cover;
+	/*background-size: cover;*/
 	background-image: 
   	url("/assets/bg.jpg.jpg");
   	opacity: 0.5;
@@ -24,6 +24,6 @@ body {
 	
  }
 
-.middle a {
+.middle_bg a {
 	color: white;
 }
