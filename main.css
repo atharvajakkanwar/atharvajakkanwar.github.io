@@ -3,14 +3,13 @@ body {
 }
 
 .icons {
-	align-content: center;
+	align-items: center;
 }
 
 .header {
 	margin: 30px;
 	align-content: left;
 	font-family: 'Trebuchet MS', Helvetica, sans-serif;
-	align-items: left;
 }
 
 
