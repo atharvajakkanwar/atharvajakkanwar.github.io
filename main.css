@@ -4,3 +4,10 @@ body {
 	text-align: center;
 	width: 100%;
 }
+
+.main {
+	 font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	padding: 250px 0;
+	margin: 30px;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");
+}
