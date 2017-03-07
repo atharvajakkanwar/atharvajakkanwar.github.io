@@ -2,6 +2,9 @@ body {
     
 }
 
+.icons {
+	align-content: center;
+}
 
 .header {
 	margin: 30px;
