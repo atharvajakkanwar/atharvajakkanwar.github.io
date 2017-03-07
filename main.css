@@ -6,8 +6,9 @@ body {
 }
 
 .middle {
-	 font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
 	padding: 250px 0;
 	margin: 30px;
-  	background-color: lighblue;
+  	background-image: 
+  	url("/assets/bg.jpg");
 }
