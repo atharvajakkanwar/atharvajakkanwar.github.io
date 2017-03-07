@@ -11,16 +11,11 @@ body {
 	text-align: left;
 }
 
-.middle {
-	text-align: center;
+.middle_bg {
 	font-family: 'Trebuchet MS', Helvetica, sans-serif;
 	padding: 100px 0;
 	margin: 0px;
-}
-
-.middle_bg {
-	padding: 100px 0;
-	margin: 0px;
+	text-align: center;
   	background-image: 
   	url("/assets/bg.jpg.jpg");
   	opacity: 0.5;
