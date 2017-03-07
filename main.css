@@ -3,6 +3,20 @@ body {
 	margin: 0;
 	width: 100%;
 }
+.background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('images/background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    opacity: 0.8;
+    filter:alpha(opacity=80);
+}
+
 
 .header {
 	margin: 30px;
@@ -10,6 +24,7 @@ body {
 	font-family: 'Trebuchet MS', Helvetica, sans-serif;
 	text-align: left;
 }
+
 
 .middle_bg {
 	padding: 250px 0;
