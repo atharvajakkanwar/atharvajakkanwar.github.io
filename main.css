@@ -12,10 +12,10 @@ body {
 }
 
 .middle_bg {
-	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	text-align: center;
 	padding: 100px 0;
 	margin: 0px;
-	text-align: center;
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
   	background-image: 
   	url("/assets/bg.jpg.jpg");
   	opacity: 0.5;
