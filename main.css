@@ -31,5 +31,6 @@ body {
  }
 
 .middle_bg a {
+	text-decoration:  none;
 	color: white;
 }
