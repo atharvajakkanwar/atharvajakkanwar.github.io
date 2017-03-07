@@ -13,10 +13,15 @@ body {
 
 .middle_bg {
 	text-align: center;
-	padding: 100px 0;
+	padding: 300px 0;
 	margin: 0px;
 	font-family: 'Trebuchet MS', Helvetica, sans-serif;
-  	background-image: 
+ }
+
+.middle {
+	padding: 300px 0;
+	margin: 0px;
+	background-image: 
   	url("/assets/bg.jpg.jpg");
   	opacity: 0.5;
 }
