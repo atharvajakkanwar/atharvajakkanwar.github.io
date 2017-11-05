@@ -1,5 +1,4 @@
-body {
-    
+body {    
 }
 
 .icons {
@@ -12,24 +11,23 @@ body {
 	font-family: 'Trebuchet MS', Helvetica, sans-serif;
 }
 
-
 .middle_bg {
 	padding: 7% 0;
 	margin: 0;
         text-align: center;
 	font-size: 20px;
 	font-family: 'Trebuchet MS', Helvetica, sans-serif;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+    	position: fixed;
+    	top: 0;
+    	left: 0;
+    	width: 100%;
+    	height: 100%;
     	background-image: 
   	url("/assets/bg.jpg.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    opacity: 0.8;
-    filter:alpha(opacity=80);
+    	background-repeat: no-repeat;
+    	background-attachment: fixed;
+    	opacity: 0.8;
+    	filter:alpha(opacity=80);
  }
 
 .middle_bg a:hover, a:visited, a:link, a:active {
