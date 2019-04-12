@@ -35,8 +35,8 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: CODEsiger
-blog_description: the art of coding
+blog_name: my .log files
+blog_description: bits in chaos
 
 # Pagination
 paginate: 4
