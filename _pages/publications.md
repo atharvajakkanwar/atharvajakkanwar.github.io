@@ -19,20 +19,23 @@ description: Some of the projects I've worked on.
 [![Generic badge](https://img.shields.io/badge/-Arduino-ff69b4.svg)]()
 
 <hr>
-#### Reverse Image search using K-means clustering with product quantization
-* Given an image, the system returns k closest similar images for a database of 10 million images from Flickr.
-* Used feature vectors obtained from VGG-16 network to cluster 10 million images for product quantization.
-* Used map reduce jobs on AWS EMR to process the data and run the algorithms.
-* Work in progress.
+#### Similar Image search using K-means clustering in Hadoop
+* Given an image, the system returns k closest similar images for a database of 1 million images from Flickr.
+* Used feature vectors obtained from VGG-16 network to cluster 1 million images for product quantization.
+* Reduced distance computations to 0.4% of original using product quantization.
+* Searches for upto top 20 images in 1 sec.
+* Transformed and filtered data and implemented distributed k means clustering using Map Reduce in Hadoop.
+
   
  [![Generic badge](https://img.shields.io/badge/-Java-9cf.svg)]() [![Generic badge](https://img.shields.io/badge/-Python-green.svg)]() [![Generic badge](https://img.shields.io/badge/-Tensorflow-orange.svg)]() [![Generic badge](https://img.shields.io/badge/AWS-EMR-blue.svg)]() [![Generic badge](https://img.shields.io/badge/AWS-S3-blue.svg)]()
-[![Generic badge](https://img.shields.io/badge/-Pandas-yellowgreen.svg)]() [![Generic badge](https://img.shields.io/badge/-Springboot-red.svg)]() [![Generic badge](https://img.shields.io/badge/-Maven-blueviolet.svg)]()
+[![Generic badge](https://img.shields.io/badge/-Pandas-yellowgreen.svg)]() [![Generic badge](https://img.shields.io/badge/-Flask-red.svg)]() 
 
 <hr>
 #### <a href ="https://github.com/atharvajakkanwar/social-network-REST-API-JAVA">Social Network Web Service </a>
 * Designed a RESTful web service having the functionality of a typical social network; signup, login, friends and
 wall using Springboot framework in Java and deployed the app on Heroku.
 * Used PostgreSQL database and implemented database migrations using Flyway .
+* Documented the API using Swagger
 * Used Maven as a build tool and Bitbucket Pipelines for CI/CD and followed Agile development practices in a team of 4.
 
 [![Generic badge](https://img.shields.io/badge/-Java-9cf.svg)]() [![Generic badge](https://img.shields.io/badge/AWS-EC2-blue.svg)]() [![Generic badge](https://img.shields.io/badge/-Springboot-red.svg)]() [![Generic badge](https://img.shields.io/badge/-PostgreSQL-ff69br.svg)]() [![Generic badge](https://img.shields.io/badge/-Maven-blueviolet.svg)]()

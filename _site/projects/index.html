@@ -109,16 +109,17 @@
 
 <hr />
 
-<h4 id="reverse-image-search-using-k-means-clustering-with-product-quantization">Reverse Image search using K-means clustering with product quantization</h4>
+<h4 id="similar-image-search-using-k-means-clustering-in-hadoop">Similar Image search using K-means clustering in Hadoop</h4>
 <ul>
-  <li>Given an image, the system returns k closest similar images for a database of 10 million images from Flickr.</li>
-  <li>Used feature vectors obtained from VGG-16 network to cluster 10 million images for product quantization.</li>
-  <li>Used map reduce jobs on AWS EMR to process the data and run the algorithms.</li>
-  <li>Work in progress.</li>
+  <li>Given an image, the system returns k closest similar images for a database of 1 million images from Flickr.</li>
+  <li>Used feature vectors obtained from VGG-16 network to cluster 1 million images for product quantization.</li>
+  <li>Reduced distance computations to 0.4% of original using product quantization.</li>
+  <li>Searches for upto top 20 images in 1 sec.</li>
+  <li>Transformed and filtered data and implemented distributed k means clustering using Map Reduce in Hadoop.</li>
 </ul>
 
 <p><a href=""><img src="https://img.shields.io/badge/-Java-9cf.svg" alt="Generic badge" /></a> <a href=""><img src="https://img.shields.io/badge/-Python-green.svg" alt="Generic badge" /></a> <a href=""><img src="https://img.shields.io/badge/-Tensorflow-orange.svg" alt="Generic badge" /></a> <a href=""><img src="https://img.shields.io/badge/AWS-EMR-blue.svg" alt="Generic badge" /></a> <a href=""><img src="https://img.shields.io/badge/AWS-S3-blue.svg" alt="Generic badge" /></a>
-<a href=""><img src="https://img.shields.io/badge/-Pandas-yellowgreen.svg" alt="Generic badge" /></a> <a href=""><img src="https://img.shields.io/badge/-Springboot-red.svg" alt="Generic badge" /></a> <a href=""><img src="https://img.shields.io/badge/-Maven-blueviolet.svg" alt="Generic badge" /></a></p>
+<a href=""><img src="https://img.shields.io/badge/-Pandas-yellowgreen.svg" alt="Generic badge" /></a> <a href=""><img src="https://img.shields.io/badge/-Flask-red.svg" alt="Generic badge" /></a></p>
 
 <hr />
 
@@ -127,6 +128,7 @@
   <li>Designed a RESTful web service having the functionality of a typical social network; signup, login, friends and
 wall using Springboot framework in Java and deployed the app on Heroku.</li>
   <li>Used PostgreSQL database and implemented database migrations using Flyway .</li>
+  <li>Documented the API using Swagger</li>
   <li>Used Maven as a build tool and Bitbucket Pipelines for CI/CD and followed Agile development practices in a team of 4.</li>
 </ul>
 
