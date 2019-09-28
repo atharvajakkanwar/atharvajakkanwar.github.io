@@ -15,7 +15,7 @@ social: true
 
 <br>
 <p>
-I am a grad student currently pursuing a Masters degree in Computer Science from Northeastern University Seattle, with interests in Machine Learning, Computer Vision and Web Services. Physical computing and Internet of Things also entice me. 
+I am a Software Developer at Amazon. I love Machine Learning and Physical Computing.
 </p>
 
 <p>

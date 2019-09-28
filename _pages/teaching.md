@@ -10,23 +10,17 @@ description:
 
 <hr>
 
-### Education
-<hr>
-#### Northeastern University , Seattle WA  
-##### MS in Computer Science, GPA: 3.74 / 4
-Managing Software Development, Distributed Systems, Parallel Data Processing , Computer Vision, Machine
-Learning, Internet of Things, Data Structures, Algorithms, Object Oriented Programming, Ethical AI (audit)
-
-#### Visvesvaraya National Institute of technology, Nagpur India
-##### Bachelor of Technology, GPA: 7.8 / 10
-Mathematics I and II, Computer Programming, Computer Aided Design, Remote Sensing and GIS
-
-#### MOOC
-* <a href="https://www.coursera.org/account/accomplishments/verify/3MR5NAGBLV" >Fundamentals of Digital Image and VIdeo Processing - Northwestern University </a>
-
-
 ### Experience
 <hr>
+
+#### Software Development Engineer - Amazon.com, Seattle WA
+##### July 2019
+
+[![Generic badge](https://img.shields.io/badge/-Python-green.svg)]() [![Generic badge](https://img.shields.io/badge/-Jupyter-red.svg)]()
+[![Generic badge](https://img.shields.io/badge/-Java-9cf.svg)]()
+[![Generic badge](https://img.shields.io/badge/-aws-orange.svg)]()
+
+
 #### Software Developer Intern - Data Science, QuantUniversity, Boston MA
 ##### September 2018 - December 2018
 
@@ -87,6 +81,20 @@ finance and trading industry.
 | Applications |Git, Maven, IntelliJ, VS Code, JIRA|
 |Hardware|Arduino, RaspberryPi|
 |Designing Tools|Adobe Creative Suite, 3Ds Max, Blender|
+
+### Education
+<hr>
+#### Northeastern University , Seattle WA  
+##### MS in Computer Science, GPA: 3.74 / 4
+Managing Software Development, Distributed Systems, Parallel Data Processing , Computer Vision, Machine
+Learning, Internet of Things, Data Structures, Algorithms, Object Oriented Programming, Ethical AI (audit)
+
+#### Visvesvaraya National Institute of technology, Nagpur India
+##### Bachelor of Technology, GPA: 7.8 / 10
+Mathematics I and II, Computer Programming, Computer Aided Design, Remote Sensing and GIS
+
+#### MOOC
+* <a href="https://www.coursera.org/account/accomplishments/verify/3MR5NAGBLV" >Fundamentals of Digital Image and VIdeo Processing - Northwestern University </a>
 
 ### Mentorship Experience
 <hr>

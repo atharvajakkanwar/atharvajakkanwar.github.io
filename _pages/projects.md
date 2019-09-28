@@ -43,6 +43,9 @@ description:
     </div>
 </div>
 
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1eeLMY36-ajiimOxXyZ4rOc-Qg2ux7QF5" width="640" height="480"></iframe>
+
+
 {% endif %}
 
 {% endfor %}
